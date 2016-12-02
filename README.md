@@ -1,1 +1,1 @@
-in these c++ code you random complete A araye see code you understand!
+in these c++ code you random complete Matrix with char araye see code you understand!
